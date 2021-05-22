@@ -11,7 +11,7 @@
 ## Content
 ### Main Directory
 ```
-Nifty-Prediction  
+BE-PEOJECT  
 └───Sem VII
 └───Sem VIII
 └───deployment
