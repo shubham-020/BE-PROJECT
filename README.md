@@ -1,8 +1,8 @@
 # Predicting Heart Diseases Using Machine Learning
 ## Group members
 - Shubham Ingle (Roll No. 20)
-- Sushant Kumar Mishra(Roll No. 40)
 - Sarthak Jadhav (Roll No. 23)
+- Sushant Kumar Mishra(Roll No. 40)
 ---
 ## Project Guide
 - Prof. Poonam B. Lad
