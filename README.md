@@ -45,6 +45,7 @@ The dataset has 14 attributes:
 
 ## File Descriptions 
 
+deployment folder consist of project code which is as follows:
 - `heart.csv`: the dataset file.
 - `modeling.ipynb`: contains the code of data exploration, preparation and modeling. 
 - `model.pkl`: the classification model. 
